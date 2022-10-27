@@ -76,3 +76,10 @@ permitir realizar el pago correspondiente a través del sistema y por último te
 - [Wireframe Log In (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%208.png?raw=true)  
 - [Wireframe Sign Up (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%209.png?raw=true)
 
+## Diseño UI
+### Diseño en Figma
+Para desarrollar el diseño UI se utilizo la herramienta conocida como Figma;
+para el diseño se utilizo un color morado azulado, que nos indica elegancia y un color amarillo opaco.
+(Es mi primera vez usando Figma).
+- El Diseño se puede visualizar a través del siguiente enlace
+- [Diseño Figma](https://www.figma.com/file/mlecmuzNaRuAAgv5vLPZ8P/Abogabot?node-id=0%3A1)
