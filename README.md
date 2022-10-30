@@ -51,30 +51,13 @@ permitir realizar el pago correspondiente a través del sistema y por último te
 ![Publico Objetivo](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/Target_Audience.png?raw=true)
 
 ## Diseño UX
-### Wireframe Desktop
+### Wireframe Desktop (Landing Page)
 ![Esquema PT 1](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/wireframe/Wireframes.png?raw=true)
-**Ver Wireframes individuales**  
-- [Wireframe Inicio (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/wireframe/Wireframe%201.png?raw=true)  
-- [Wireframe Acerca de (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/wireframe/Wireframe%202.png?raw=true)  
-- [Wireframe Team (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/wireframe/Wireframe%203.png?raw=true)  
-- [Wireframe Testimonios (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/wireframe/Wireframe%204.png?raw=true)  
-- [Wireframe Contacto (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/wireframe/Wireframe%205.png?raw=true)  
-- [Wireframe Pasarela de Pago (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/wireframe/Wireframe%206.png?raw=true)  
-- [Wireframe Log In (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/wireframe/Wireframe%207.png?raw=true)  
-- [Wireframe Sign Up (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/wireframe/Wireframe%208.png?raw=true)
+**Ver Wireframes individuales** [click here](https://github.com/yomidev/Abogabot-LaunchX/tree/main/img/wireframe)
 
-### Wireframe Mobile
+### Wireframe Mobile (Landing Page)
 ![Esquema PT 1](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Wireframes.png?raw=true)
-**Ver Wireframes individuales** 
-- [Wireframe Inicio (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%201.png?raw=true)
-- [Wireframe Menu (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%202.png?raw=true)  
-- [Wireframe Acerca de (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%203.png?raw=true)  
-- [Wireframe Team (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%204.png?raw=true)  
-- [Wireframe Testimonios (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%205.png?raw=true)  
-- [Wireframe Contacto (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%206.png?raw=true)  
-- [Wireframe Pasarela de Pago (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%207.png?raw=true)  
-- [Wireframe Log In (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%208.png?raw=true)  
-- [Wireframe Sign Up (click here)](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Mobile%209.png?raw=true)
+**Ver Wireframes individuales** [click here](https://github.com/yomidev/Abogabot-LaunchX/tree/main/img/UX_Mobile)
 
 ## Diseño UI
 ### Diseño en Figma
