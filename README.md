@@ -59,10 +59,23 @@ permitir realizar el pago correspondiente a través del sistema y por último te
 ![Esquema PT 1](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UX_Mobile/Wireframes.png?raw=true)
 **Ver Wireframes individuales** [click here](https://github.com/yomidev/Abogabot-LaunchX/tree/main/img/UX_Mobile)
 
+### Wireframe Desktop (Admin Site)
+![Esquema PT 1](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/Wireframe%20Plataforma/Wireframe_admin.jpg?raw=true)
+**Ver Wireframes individuales** [click here](https://github.com/yomidev/Abogabot-LaunchX/tree/main/img/Wireframe%20Plataforma)
+
 ## Diseño UI
 ### Diseño en Figma
 Para desarrollar el diseño UI se utilizo la herramienta conocida como Figma;
 para el diseño se utilizo un color morado azulado, que nos indica elegancia y un color amarillo opaco.
 (Es mi primera vez usando Figma).
-- El Diseño se puede visualizar a través del siguiente enlace
+- Algunas capturas del diseño
+![Img1](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Principal.png?raw=true)
+![Img2](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Formulario.png?raw=true)
+![Img3](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Pago.png?raw=true)
+![Img4](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Login.png?raw=true)
+![Img5](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Mobile.png?raw=true)
+![Img6](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Dashboard.png?raw=true)
+![Img7](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Resumen%20de%20Casos.png?raw=true)
+![img8](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Mobile%20admin.png?raw=true)
+- El Diseño completo se puede visualizar a través del siguiente enlace
 - [Diseño Figma](https://www.figma.com/file/mlecmuzNaRuAAgv5vLPZ8P/Abogabot?node-id=0%3A1)
