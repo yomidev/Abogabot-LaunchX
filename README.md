@@ -68,6 +68,8 @@ permitir realizar el pago correspondiente a través del sistema y por último te
 Para desarrollar el diseño UI se utilizo la herramienta conocida como Figma;
 para el diseño se utilizo un color morado azulado, que nos indica elegancia y un color amarillo opaco.
 (Es mi primera vez usando Figma).
+- El Diseño completo se puede visualizar a través del siguiente enlace
+- [Diseño Figma](https://www.figma.com/file/mlecmuzNaRuAAgv5vLPZ8P/Abogabot?node-id=0%3A1)
 - Algunas capturas del diseño
 ![Img1](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Principal.png?raw=true)
 ![Img2](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Formulario.png?raw=true)
@@ -77,5 +79,3 @@ para el diseño se utilizo un color morado azulado, que nos indica elegancia y u
 ![Img6](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Dashboard.png?raw=true)
 ![Img7](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Resumen%20de%20Casos.png?raw=true)
 ![img8](https://github.com/yomidev/Abogabot-LaunchX/blob/main/img/UI/Mobile%20admin.png?raw=true)
-- El Diseño completo se puede visualizar a través del siguiente enlace
-- [Diseño Figma](https://www.figma.com/file/mlecmuzNaRuAAgv5vLPZ8P/Abogabot?node-id=0%3A1)
