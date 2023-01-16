@@ -1,4 +1,4 @@
-# Abogabot Launch X
+# Abogabot Launch X (README en Ingles [Click Here](README-2.md))
 ## Práctica Módulo 1 (Frontend)
 Se requiere realizar un sistema para un grupo de abogados en el cual se permita la automatización al
 seguimiento de los casos y demandas legales que se van a atender.
